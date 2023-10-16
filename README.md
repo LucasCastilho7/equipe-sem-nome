@@ -1,7 +1,7 @@
 # Equipe Sem Nome
 
 
-![Capa do Projeto]([https://picsum.photos/850/280](https://cdn.discordapp.com/attachments/1159307433349496852/1163290832464515112/equipe-sem-nome.jpg?ex=653f0a03&is=652c9503&hm=28b5c4812882fded49e0336133b24e8144c822e6229a6e716d44865956bfcb05&))
+![Capa do Projeto](https://cdn.discordapp.com/attachments/1159307433349496852/1163290832464515112/equipe-sem-nome.jpg?ex=653f0a03&is=652c9503&hm=28b5c4812882fded49e0336133b24e8144c822e6229a6e716d44865956bfcb05&)
 
 # Sobre o Projeto
 
