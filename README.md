@@ -47,4 +47,4 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.m
 
 # Agradecimentos
 
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+Obrigado!
