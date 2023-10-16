@@ -40,6 +40,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 # Autores
 
 [Lucas Castilho](https://github.com/LucasCastilho7)
+[Vitor Melo](https://github.com/vitor1410)
 
 # Licença
 
