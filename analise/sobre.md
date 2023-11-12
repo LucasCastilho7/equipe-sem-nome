@@ -6,7 +6,7 @@ Um e-commerce, ou comércio eletrônico, refere-se à compra e venda de produtos
 
 ### 1.1 Objetivo
 
-O objetivo deste estudo é realizar uma análise exploratória do conjunto de dados disponível em [Kaggle](https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset/). O conjunto de dados, denominado 'e-commerce.csv', será explorado para extrair insights e padrões relacionados ao comportamento do cliente em um ambiente de e-commerce.
+O objetivo deste estudo é realizar uma análise exploratória do conjunto de dados disponível em [Kaggle](https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset/). O conjunto de dados, denominado [ecommerce.csv](ecommerce.csv), será explorado para extrair insights e padrões relacionados ao comportamento do cliente em um ambiente de e-commerce.
 
 ## 2. Metodologia
 
