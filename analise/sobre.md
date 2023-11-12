@@ -13,7 +13,7 @@ O objetivo deste estudo é realizar uma análise exploratória do conjunto de da
 Para atingir nosso objetivo, será realizada uma separação e limpeza de dados no conjunto disponível no [Kaggle](https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset/). Abaixo, apresentamos uma tabela com os nomes técnicos que serão utilizados para descrever as variáveis no dataset:
 
 
-| Nome Técnico                     | Description                                                                        |
+| Nome do Campo                     | Descrição                                                                        |
 |----------------------------------|------------------------------------------------------------------------------------|
 | Customer ID                      | Identificador de cada cliente.  |
 | Gender                           | Gênero do consumidor, permitindo avaliação baseada em gênero.          |
