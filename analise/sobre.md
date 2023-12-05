@@ -31,9 +31,9 @@ Para atingir nosso objetivo, será realizada uma separação e limpeza de dados 
 
 ### 3.1 Perguntas para Análise
 
-1. Quais são os produtos mais populares com base no número de visualizações?
-2. Existe uma correlação entre o preço dos produtos e a taxa de conversão em compras?
-3. Qual é a distribuição temporal dos eventos de compra ao longo do período de registro?
-4. Há alguma tendência discernível no comportamento do usuário durante sessões de compra prolongadas?
+1. Mulheres ou Homens compram mais na loja?
+2. Qual a faixa etária que mais fez compras na loja?
+3. Qual a média de tempo que o consumidor volta a comprar na loja?
+4. Qual a assinatura mais popular entre os consumidores?
 
 Essas perguntas fornecerão insights valiosos sobre o comportamento do cliente e as tendências no e-commerce, permitindo uma compreensão mais profunda do conjunto de dados.
